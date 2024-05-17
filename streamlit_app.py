@@ -44,12 +44,12 @@ if ingredients_list:
         session.sql(my_insert_stmt).collect()
         st.success('Your Smoothie is ordered!', icon="✅")    
 
-
-
-st.write(":telephone_receiver: Contact me :telephone_receiver:")
-st.write("""Whatsapp : [62 812 9598 1476](http://wa.me/6281295981476)""")
-st.write("""Instagram : [tcu98](https://instagram.com/tcu98)""")
-st.write("""Email : widyo11@gmail.com""")
+st.write("")
+st.write("")
+st.write(":telephone_receiver: Contact me")
+st.write(""":iphone: : [62 812 9598 1476](http://wa.me/6281295981476)""")
+st.write(""":camera: : [tcu98](https://instagram.com/tcu98)""")
+st.write(""":envelope_with_arrow: : widyo11@gmail.com""")
 
 st.write(""":copyright: Tcuber11""")
 
