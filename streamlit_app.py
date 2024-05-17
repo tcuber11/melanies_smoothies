@@ -46,7 +46,7 @@ if ingredients_list:
 
 
 
-st.title("📞 Contact me")
+st.write(":telephone_receiver: Contact me :telephone_receiver:")
 st.write("""Whatsapp : [62 812 9598 1476](http://wa.me/6281295981476)""")
 st.write("""Instagram : [tcu98](https://instagram.com/tcu98)""")
 st.write("""Email : widyo11@gmail.com""")
